@@ -1,0 +1,63 @@
+{
+    "response": {
+      "congestion_sync_time_utc_secs": 1604976488,
+      "destination_charging": [
+        {
+          "id": 1,
+          "location": { "lat": 33.8990403, "long": -84.6513168 },
+          "name": "Model A",
+          "battery_level": "15%",
+          "distance_miles": 6.430447
+        },
+        {
+          "id": 2,
+          "location": { "lat": 34.011213, "long": -84.575745 },
+          "name": "Model B",
+          "battery_level": "100%",
+          "distance_miles": 6.48008
+        },
+        {
+          "id": 3,
+          "location": { "lat": 33.881785, "long": -84.473461 },
+          "name": "Model C",
+          "battery_level": "97%",
+          "distance_miles": 6.778101
+        },
+        {
+          "id": 4,
+          "location": { "lat": 33.991767, "long": -84.351229 },
+          "name": "Model D",
+          "battery_level": "23%",
+          "distance_miles": 6.805893
+        },
+        {
+          "id": 5,
+          "location": { "lat": 33.848756, "long": -84.36434 },
+          "name": "Model E",
+          "battery_level": "87%",
+          "distance_miles": 10.868304
+          },
+          {
+            "location": { "lat": 33.772013, "long": -84.3144435 },
+            "name": "Model F",
+            "battery_level": "55%",
+            "distance_miles": 11.131691
+
+          },
+          {
+            "id": 6,
+            "location": { "lat": 34.075818, "long": -84.652184 },
+            "name": "Model G",
+            "battery_level": "46%",
+            "distance_miles": 12.403464
+          },
+          {
+            "id": 7,
+            "location": { "lat": 34.071365, "long": -84.275362 },
+            "name": "Model H",
+            "battery_level": "61%",
+            "distance_miles": 12.772961
+          }
+      ]
+    }
+  }
