@@ -2,19 +2,19 @@
 
 Clone repo
 
-## 2
+# 2
 Install app by running "npm install" 
 
 
-### 3 
+# 3 
 Start application by running "npm start"
 
-#### 4
+# 4
 
 User: admin@admin.com
 Pw: admin123
 
-##### 5
+# 5
 
 This is the only login available to read content
 
