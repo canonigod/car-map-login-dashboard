@@ -3,7 +3,7 @@
 Clone repo
 
 # 2
-Install app by running "npm install" 
+Install dependencies by running "npm install" 
 
 
 # 3 
