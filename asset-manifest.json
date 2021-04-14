@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/car-map-login-dashboard/static/css/main.748e52ca.chunk.css",
+    "main.js": "/car-map-login-dashboard/static/js/main.c23350d7.chunk.js",
+    "main.js.map": "/car-map-login-dashboard/static/js/main.c23350d7.chunk.js.map",
+    "runtime-main.js": "/car-map-login-dashboard/static/js/runtime-main.4c5e3e6f.js",
+    "runtime-main.js.map": "/car-map-login-dashboard/static/js/runtime-main.4c5e3e6f.js.map",
+    "static/js/2.87e3efc7.chunk.js": "/car-map-login-dashboard/static/js/2.87e3efc7.chunk.js",
+    "static/js/2.87e3efc7.chunk.js.map": "/car-map-login-dashboard/static/js/2.87e3efc7.chunk.js.map",
+    "index.html": "/car-map-login-dashboard/index.html",
+    "static/css/main.748e52ca.chunk.css.map": "/car-map-login-dashboard/static/css/main.748e52ca.chunk.css.map",
+    "static/js/2.87e3efc7.chunk.js.LICENSE.txt": "/car-map-login-dashboard/static/js/2.87e3efc7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c5e3e6f.js",
+    "static/js/2.87e3efc7.chunk.js",
+    "static/css/main.748e52ca.chunk.css",
+    "static/js/main.c23350d7.chunk.js"
+  ]
+}
